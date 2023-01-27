@@ -69,7 +69,6 @@ MMS Project - 자재 관리 시스템
 <p>자재를 효과적으로 관리할 수 있도록 구현.</p>
 
 <br/>
-<hr/>
 
 ![발주화면](https://github.com/roving324/Material_Management_System/blob/master/Img/Order.PNG)
 **발주관리**
@@ -77,7 +76,6 @@ MMS Project - 자재 관리 시스템
 <p>마지막 입고자, 입고 일시, 현재 입고 수량이 차감된 발주진행수량을 확인할 수 있다.</p>
 
 <br/>
-<hr/>
 
 ![이력조회](https://github.com/roving324/Material_Management_System/blob/master/Img/List.PNG)
 **이력조회**
@@ -112,6 +110,8 @@ ASP.NET Core 학습 리포지토리
 라이트박스화면<br/>
 <P>이미지 선택한 것과 일치한 화면을 사용자 앞에 띄우기</P>
 
+<br/>
+<hr/>
 <br/>
 
 ![게시판페이징화면](https://github.com/roving324/studyASPNET/blob/main/Images/Index.PNG)
