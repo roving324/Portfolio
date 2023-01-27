@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - [<a href="https://github.com/roving324/Material_Management_System">MMS</a>]자재관리시스템 <a href="#MMS">이동</a>✨
 
-- [<a href="#ASP.NET">ASP.NET</a>]ASP.NET Core
+- [<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core <a href="#ASP.NET">이동</a>
 
 - [<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템🔨
 
@@ -104,7 +104,8 @@ MMS Project - 자재 관리 시스템
 
 <br/>
 
-# <a href="https://github.com/roving324/studyASPNET">studyASPNET</a> <a name="ASP.NET"></a>
+<a name="ASP.NET"></a>
+# studyASPNET
 ASP.NET Core 학습 리포지토리
 
 - Languages <br/>
