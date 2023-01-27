@@ -136,3 +136,27 @@ ASP.NET Core 학습 리포지토리
 
 ![메인관리화면](https://github.com/roving324/studyASPNET/blob/main/Images/Profile.PNG)
 메인관리화면
+
+<br/>
+<br/>
+<br/>
+
+# KDT_MES_EDU
+# 구현화면
+![BOM](https://github.com/roving324/KDT_MES_EDU/blob/master/IMG/BOM.PNG)
+BOM
+
+<br/>
+
+![생산실적등록](https://github.com/roving324/KDT_MES_EDU/blob/master/IMG/%EC%83%9D%EC%82%B0%EC%8B%A4%EC%A0%81.PNG)
+생산실적등록
+
+<br/>
+
+![작업자 일별 실적 조회](https://github.com/roving324/KDT_MES_EDU/blob/master/IMG/%EC%9E%91%EC%97%85%EC%9E%90%20%EC%9D%BC%EB%B3%84%20%EC%8B%A4%EC%A0%81.PNG)
+작업자 일별 실적 조회
+
+<br/>
+
+# 프로세스 흐름도
+![프로세스 흐름도](https://github.com/roving324/KDT_MES_EDU/blob/master/IMG/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%ED%9D%90%EB%A6%84%EB%8F%84.png)
