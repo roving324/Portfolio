@@ -59,26 +59,7 @@ MMS Project - 자재 관리 시스템
 
 <br/>
 
-# 요구사항
-![요구사항](https://github.com/roving324/Material_Management_System/blob/master/Img/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.PNG)
-
-<br/>
-
-# TO-BE 프로세스
-![TO-BE 프로세스](https://github.com/roving324/Material_Management_System/blob/master/Img/ToBe.PNG)
-
-<br/>
-
-![TO-BE 프로세스](https://github.com/roving324/Material_Management_System/blob/master/Img/ToBe2.PNG)
-
-<br/>
-
-# 개발리스트
-![개발리스트](https://github.com/roving324/Material_Management_System/blob/master/Img/%EA%B0%9C%EB%B0%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8.PNG)
-
-<br/>
-
-# 개발화면
+### 개발화면
 
 <br/>
 
@@ -102,6 +83,8 @@ MMS Project - 자재 관리 시스템
 **이력조회**
 <p>품목 및 기간에 따라 이력을 조회할 수 있으며 마지막 입고자 및 거래처를 확인할 수 있다.</p>
 
+<br/>
+<br/>
 <br/>
 
 <a name="ASP.NET"></a>
