@@ -104,11 +104,13 @@ ASP.NET Core 학습 리포지토리
   
 ![메인화면](https://github.com/roving324/studyASPNET/blob/main/Images/html_screen01.png)
 메인화면
+<P>핀터레스트 스타일로 구현하였으며 반응형 웹으로 구성하여 화면 크기에 따라 변화는 웹을 구현</P>
 
 <br/>
 
 ![라이트박스화면](https://github.com/roving324/studyASPNET/blob/main/Images/html_screen02.png)
 라이트박스화면<br/>
+<P>이미지 선택한 것과 일치한 화면을 사용자 앞에 띄우기</P>
 
 <br/>
 
