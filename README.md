@@ -141,8 +141,8 @@ ASP.NET Core 학습 리포지토리
 <br/>
 <br/>
 
-# KDT_MES_EDU
-# 구현화면
+## KDT_MES_EDU
+### 구현화면
 ![BOM](https://github.com/roving324/KDT_MES_EDU/blob/master/IMG/BOM.PNG)
 BOM
 
