@@ -100,9 +100,9 @@ ASP.NET Core 학습 리포지토리
 - 그 외<br/>
   <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=violet"/>
   
-  <br/>
+<br/>
   
-  ![메인화면](https://github.com/roving324/studyASPNET/blob/main/Images/html_screen01.png)
+![메인화면](https://github.com/roving324/studyASPNET/blob/main/Images/html_screen01.png)
 메인화면
 
 <br/>
