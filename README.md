@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 
 ### Project List
 
-- [<a href="https://github.com/roving324/Material_Management_System">MMS</a>]자재관리시스템(2인) <a href="#MMS">이동</a>✨
+- [<a href="https://github.com/roving324/Material_Management_System">WMS</a>]창고관리시스템(2인) <a href="#WMS">이동</a>✨
 
 - [<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core(학습) <a href="#ASP.NET">이동</a>
 
 - [<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템(학습) <a href="#MES">이동</a>🔨
 
-<a name="MMS"></a>
+<a name="WMS"></a>
 ## Material_Management_System 
-MMS Project - 자재 관리 시스템
+WMS Project - 창고 관리 시스템
 
 - Languages <br/><img src="https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" style="max-width: 100%;">
 
